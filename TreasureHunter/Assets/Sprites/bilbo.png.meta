@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: aefbccb91c84a9e4c9d455e3c46716e1
+timeCreated: 1436024265
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bilbo_0
+    21300002: bilbo_1
+    21300004: bilbo_2
+    21300006: bilbo_3
+    21300008: bilbo_4
+    21300010: bilbo_5
+    21300012: bilbo_6
+    21300014: bilbo_7
+    21300016: bilbo_8
+    21300018: bilbo_9
+    21300020: bilbo_10
+    21300022: bilbo_11
+    21300024: bilbo_12
+    21300026: bilbo_13
+    21300028: bilbo_14
+    21300030: bilbo_15
+    21300032: bilbo_16
+    21300034: bilbo_17
+    21300036: bilbo_18
+    21300038: bilbo_19
+    21300040: bilbo_20
+    21300042: bilbo_17
+    21300044: bilbo_22
+    21300046: bilbo_23
+    21300048: bilbo_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bilbo_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 137
+        width: 11
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 137
+        width: 11
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_2
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 103
+        width: 11
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 103
+        width: 12
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 103
+        width: 12
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 103
+        width: 12
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 103
+        width: 12
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 103
+        width: 12
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 103
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 103
+        width: 12
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 73
+        width: 11
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 73
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 73
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 73
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 73
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 20
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 44
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 44
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bilbo_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

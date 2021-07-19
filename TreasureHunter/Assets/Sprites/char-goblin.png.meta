@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 432ec4e432cb1634a9a3f1dbab8b000d
+timeCreated: 1431963763
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: char-goblin_0
+    21300002: char-goblin_1
+    21300004: char-goblin_2
+    21300006: char-goblin_3
+    21300008: char-goblin_4
+    21300010: char-goblin_5
+    21300012: char-goblin_6
+    21300014: char-goblin_7
+    21300016: char-goblin_8
+    21300018: char-goblin_9
+    21300020: char-goblin_10
+    21300022: char-goblin_11
+    21300024: char-goblin_12
+    21300026: char-goblin_13
+    21300028: char-goblin_14
+    21300030: char-goblin_15
+    21300032: char-goblin_16
+    21300034: char-goblin_17
+    21300036: char-goblin_18
+    21300038: char-goblin_19
+    21300040: char-goblin_20
+    21300042: char-goblin_21
+    21300044: char-goblin_22
+    21300046: char-goblin_23
+    21300048: char-goblin_24
+    21300050: char-goblin_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: char-goblin_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 210
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 210
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 210
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 184
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 185
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 158
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 158
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 133
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 132
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 107
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 107
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 107
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 107
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 81
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 54
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 54
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 54
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 29
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 28
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 29
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 28
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: char-goblin_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
