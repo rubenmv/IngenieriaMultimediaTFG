@@ -20,9 +20,9 @@ El proyecto puede ser abierto mediante la herramienta/editor Unity, simplemente 
 ## A tener en cuenta
 Esto es un proyecto de estudio en el que uno de los objetivos era realizar un pequeño videojuego para probar la teoría, por lo que este no esta totalmente terminado y mucho menos pulido, habiéndose quedado muchas cosas pendientes que podrían aportar mucho a la jugabilidad y diversión. En cualquier caso lo comparto para que sirva de ayuda a futuros estudiantes.
 
-![Arrow trap](https://github.com/rubenmv/IngenieriaMultimediaTFG/tree/main/img/arrows.gif?raw=true)
-![Boulder trap](https://github.com/rubenmv/IngenieriaMultimediaTFG/tree/main/img/boulder-2.gif?raw=true)
-![Treasure Chest](https://github.com/rubenmv/IngenieriaMultimediaTFG/tree/main/img/chest.gif?raw=true)
+![Arrow trap](https://raw.githubusercontent.com/rubenmv/IngenieriaMultimediaTFG/main/img/arrows.gif)
+![Boulder trap](https://raw.githubusercontent.com/rubenmv/IngenieriaMultimediaTFG/main/img/boulder-2.gif)
+![Treasure Chest](https://raw.githubusercontent.com/rubenmv/IngenieriaMultimediaTFG/main/img/chest.gif)
 
 ## Recursos
 ### Tipografía por Rodrigo Fuenzalida
