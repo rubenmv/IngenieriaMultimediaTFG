@@ -1,5 +1,5 @@
 # Treasure Hunter
-Este es el proyecto final de carrera que realicé para mis estudio de Grado en Ingeniería Multimedia en la Universidad de Alicante.
+Proyecto de final de carrera que realicé para mis estudio de Grado en Ingeniería Multimedia en la Universidad de Alicante.
 
 Se trata de un videojuego del género rogue-like en el que te metes en la piel de un caza-tesoros que se dedica a recorrer laberínticas mazmorras, llenas de trampas y enemigos, con el objetivo de hacer la mayor fortuna posible.
 
