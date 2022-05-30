@@ -15,7 +15,17 @@ Con este trabajo me propuse diversos objetivos:
 La documentación del proyecto desarrolla estos objetivos de manera teórica e incluye el documento de diseño (conocido en inglés como GDD). Se puede encontrar en formato PDF en el directorio de documentación del repositorio o directamente desde aquí.
 
 ## Como abrir el proyecto
+Este proyecto se desarrolló en 2015 con las versiones de Unity y Blender de entonces.
+Para poder abrirlo correctamente en su versión original es importante utilizar versiones antiguas, Blender 2.72b y Unity 5.2.3f1. En la carpeta Programas dejo los instaladores.
+
+Es importante instalar primero Blender, ya que Unity lo utiliza para importar los ficheros .blend del proyecto.
+Si se hace al revés y se instala primero Unity (y se abre el proyecto sin Blender), después de instalar Blender habría que ir al menú de Assets y darle a Reimport All...
+
+A veces ni con estas se enlazan los blender, es decir, el item está, pero visualmente no lo carga, volver a reimportar, editar el prefab y darle a aplicar, etc. Acaba funcionando.
+
 El proyecto puede ser abierto mediante la herramienta/editor Unity, simplemente abrir la carpeta TreasureHunter. Para probar el juego desde el editor primero se debe abrir la escena Preload que sirve como punto de entrada de las distintas escenas del juego. Si se intenta abrir desde cualquier otra escena es probable que no funcione correctamente.
+
+También he dejado un ejecutable ya compilado para poder lanzarlo directamente.
 
 ## A tener en cuenta
 Esto es un proyecto de estudio en el que uno de los objetivos era realizar un pequeño videojuego para probar la teoría, por lo que este no esta totalmente terminado y mucho menos pulido, habiéndose quedado muchas cosas pendientes que podrían aportar mucho a la jugabilidad y diversión. En cualquier caso lo comparto para que sirva de ayuda a futuros estudiantes.
